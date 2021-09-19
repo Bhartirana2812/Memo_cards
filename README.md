@@ -23,7 +23,7 @@ This is a website whose name refers to word MEMORY-CARD, where you can save ever
   ![Main/Head page](/images/MainPage.png)
 <h2>Notes Page<h2>
   
-   ![Notes Page](/images/notes.png)
+   ![Notes Page](/images/Notes.png)
   
   
   
