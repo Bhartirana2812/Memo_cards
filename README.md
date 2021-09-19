@@ -4,11 +4,11 @@ Here is the websites of Memo-Cards which refers to the words MEMORY-CARD ,where 
 <br />
 <p align="center">
   <a href="https://github.com/Bhartirana2812/Memo_cards">
-    <img src=images/Smiley_stickey_notes.png" alt="Logo" width="200" height="50">
+    <img src=/images/Smiley_stickey_notes.png" alt="Logo" width="200" height="50">
   </a>
 
   <p align="center">
-    A Website where <code> Developers </code> can show <code> their skills with Creativity </code>
+    A Website where <code> Users </code> can add <code> stickey notes with different colors </code>
     <br />
   </p>
 </p>
@@ -20,10 +20,10 @@ Here is the websites of Memo-Cards which refers to the words MEMORY-CARD ,where 
 This is a website whose name refers to word MEMORY-CARD, where you can save everything important .
 <h2>Main/Head page<h2>
   
-  ![Main/Head page](images/MainPage.png)
+  ![Main/Head page](/images/MainPage.png)
 <h2>Notes Page<h2>
   
-   ![Notes Page](images/notes.png)
+   ![Notes Page](/images/notes.png)
   
   
   
@@ -36,8 +36,8 @@ This is a website whose name refers to word MEMORY-CARD, where you can save ever
 I made this projects using new tech stacks
 * [HTML](https://html.com/)
 * [CSS](https://css-tricks.com/)
- *[Bootstrap](https://getbootstrap.com/)
- * [JavaScript] 
+*  [Bootstrap](https://getbootstrap.com/)
+ * [JavaScript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 
