@@ -4,7 +4,7 @@ Here is the websites of Memo-Cards which refers to the words MEMORY-CARD ,where 
 <br />
 <p align="center">
   <a href="https://github.com/Bhartirana2812/Memo_cards">
-    <img src=/images/Smiley_sticky_notes.png" alt="Logo" width="200" height="50">
+    <img src=/images/notes.png" alt="Logo" width="200" height="50">
   </a>
 
   <p align="center">
